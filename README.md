@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Express API<br>🌱 I’m currently learning Java<br>💬 Ask me about Technology<br>⚡ Fun fact I am obsessed The first computer “bug” was an actual real-life bug
+🔭 I’m currently working on Express API<br>🌱 I’m currently learning  Gen AI<br>💬 Ask me about Technology<br>⚡ Fun fact I am obsessed The first computer “bug” was an actual real-life bug
 
 
 # 💻 Tech Stack:
